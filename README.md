@@ -1,11 +1,11 @@
-- Hi, I’m Pavan Pavithran
-- I am an Engineering Physics graduate currently in cybersecurity
-- I am EC-Council CEHv13 and CompTIA Sec+ certified
-- Reach me on pavanpavithran44@gmail.com
+- 👋 Hi, I’m Pavan Pavithran
+- ✏️ I am an _Engineering Physics_ graduate currently in **cybersecurity**
+- 🎓 I am _EC-Council CEHv13_ and _CompTIA Sec+_ certified
+- 🔗 Reach me on pavanpavithran44@gmail.com
 
 
-- www.linkedin.com/in/pavan-pavithran
-- www.tryhackme.com/p/pavanp44
+- 👨‍💻 www.linkedin.com/in/pavan-pavithran
+- 🖥️ www.tryhackme.com/p/pavanp44
 
 <!---
 DrPaps/DrPaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
