@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @DrPaps
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning java and c++
-- 📫 How to reach me pavanp2@illinois.edu 
+- Hi, I’m Pavan Pavithran
+- I am an Engineering Physics graduate currently in cybersecurity
+- I am EC-Council CEHv13 and CompTIA Sec+ certified
+- Reach me on pavanpavithran44@gmail.com
+
+
+- www.linkedin.com/in/pavan-pavithran
+- www.tryhackme.com/p/pavanp44
 
 <!---
 DrPaps/DrPaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
